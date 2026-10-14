@@ -1,0 +1,16 @@
+# OS and Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Node / Scratch files
+node_modules/
+*.log
+.gemini/
+tmp/
